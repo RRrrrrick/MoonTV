@@ -76,6 +76,14 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    },
+    "mtzy": {
+      "api": "https://mtzy.me/api.php/provide/vod",
+      "name": "茅台资源"
+    },
+    "jszy": {
+      "api": "https://jszy333.com/api.php/provide/vod",
+      "name": "极速资源"
     }
   }
 }
